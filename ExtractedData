@@ -1,0 +1,58 @@
+Last Refresh: 12/21/2020 13:06:06
+Page View tag (Production)
+Tag Type (tid):"1" (Page View tag)
+Category ID (cg):"687PDC:PRODUCT SERIES"
+Is Page View? (pc):"Y"
+Extra Field 11 (pv11):"23551"
+Attribute 1 (pv_a1):"687PDC"
+Attribute 2 (pv_a2):"687362"
+Attribute 3 (pv_a3):"687PDC"
+Attribute 4 (pv_a4):"EN"
+Attribute 5 (pv_a5):"T-Slot Aluminum Framing - Extrusion Profiles"
+Client ID (ci):"50810000|687362;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Page ID (pi):"687362 - T-Slot Aluminum Framing - Extrusion Profiles"
+Destination URL (ul):"https://ph.parker.com/us/en/industrial-profile-systems-extrusion-profiles"
+
+
+Conversion Event tag (Production)
+Tag Type (tid):"14" (Conversion Event tag)
+Client ID (ci):"50810000|687362;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Conversion Event ID (cid):"687362 - T-Slot Aluminum Framing - Extrusion Profiles - Product Series"
+Conversion Event Action Type (cat):"2"
+Conversion Category ID (ccid):"EMAIL PRODUCT"
+Conversion Event Points (cpt):"1"
+Page ID (pi):"687362 - T-Slot Aluminum Framing - Extrusion Profiles"
+Destination URL (ul):"https://ph.parker.com/us/en/industrial-profile-systems-extrusion-profiles"
+
+
+Form Action tag (Production)
+Tag Type (tid):"10" (Form Action tag)
+Client ID (ci):"50810000|687362;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Page ID (pi):"687362 - T-Slot Aluminum Framing - Extrusion Profiles"
+Form List (fo):"searchForm1:0;enterpriseNavForm_1:1;LanguageSelectionForm:2;myForm:3;"
+Form Action Type (ac):"3:R"
+Target HREF/URL (hr):"#"
+Destination URL (ul):"https://ph.parker.com"
+
+
+Link Click tag (Production)
+Tag Type (tid):"8" (Link Click tag)
+Target HREF/URL (hr):"#"
+Client ID (ci):"50810000|687362;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Page ID (pi):"687362 - T-Slot Aluminum Framing - Extrusion Profiles"
+Destination URL (ul):"https://ph.parker.com"
+
+
+Frame contains: https://ph.parker.com/us/en/industrial-profile-systems-extrusion-profiles
+There are no tags in this frame.
+
+
+Access to this frame is not allowed
